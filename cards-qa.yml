@@ -1,0 +1,13 @@
+
+build:
+  version: "3.2"
+
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Abhi Bhopale - QA Lead"
+    email: "abhi@gmail.com"
+  onCallSupport:
+    -(666) 333-1234
+    -(666) 444-1345

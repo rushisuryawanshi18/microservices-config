@@ -1,0 +1,12 @@
+
+build:
+  version: "2.3"
+
+loans:
+  message: "Welcome to EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "Ram Suryawanshi - QA Lead"
+    email: "ram@gmail.com"
+  onCallSupport:
+    - (666) 555 1234
+    - (666) 553 3456

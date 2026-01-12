@@ -1,0 +1,11 @@
+build:
+  version: "3.1"
+
+cards:
+  message: "Welcome to EazyBank cards related PROD APIs"
+  contactDetails:
+    name: "Raj Somwanshi - PROD Lead"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(888) 123-1234
+    -(888) 345-1345

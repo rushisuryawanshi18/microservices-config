@@ -1,0 +1,13 @@
+
+build:
+  version: "2.1"
+
+
+loans:
+  message: "Welcome to EazyBank Loans related PROD APIs"
+  contactDetails:
+    name: "Dipak Kalal - Prod Lead"
+    email: "dipak@gmail.com"
+  onCallSupport:
+    - (888) 555-1234
+    - (888) 553-3456
