@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs"
+  message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Lucky Surya - Prod Lead"
     email: "lucky@gmail.com"
