@@ -4,7 +4,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank Loans related Hookdeck APIs"
+  message: "Welcome to EazyBank Loans related Hook APIs"
   contactDetails:
     name: "Dipak Kalal - Prod Lead"
     email: "dipak@gmail.com"
