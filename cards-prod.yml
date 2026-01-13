@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 cards:
-  message: "Welcome to EazyBank cards related HookDeck APIs"
+  message: "Welcome to EazyBank cards related PROD APIs"
   contactDetails:
     name: "Raj Somwanshi - PROD Lead"
     email: "raj@gmail.com"
