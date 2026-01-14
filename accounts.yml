@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related docker APIs"
   contactDetails:
     name: "Rushi Surya - Developer"
     email: "{cipher}b7f443ff49547e04b33c04300a02dd370ab648ae298e270962b6f348a73414e514a0ae1a4ce7c7269c63b2b9babaeba9"
